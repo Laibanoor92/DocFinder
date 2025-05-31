@@ -46,7 +46,7 @@ The landing page features a modern hero section, feature highlights, and testimo
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/mshiveshm/LostFoundPortal.git
+git clone https://github.com/Laibanoor92/LostFoundPortal.git
 cd LostFoundPortal/client
 ```
 
